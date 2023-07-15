@@ -1,2 +1,5 @@
 # Ignore a pasta data
 data
+
+*.csv
+*.jpg
